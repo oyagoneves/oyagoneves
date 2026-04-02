@@ -22,11 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
-
 ## 🔥 Animação
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Sempre+aprendendo+🚀;Futuro+Dev+Full+Stack)
