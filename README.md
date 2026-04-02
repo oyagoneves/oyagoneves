@@ -1,4 +1,9 @@
 # 👋 Oiii, eu sou o Yago Neves
+## 🔥 My Vibe
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnNjdndhN2Qxa3ptMDJzZjl2eHRnOTdrbzkzcGg2bWg5cWpidHoyMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fUpvkRuLKE4xMBJLvH/giphy.gif" />
+</p>
 
 🚀 Estudante de Engenharia de Software  
 💻 HTML | CSS | JavaScript | Python  
